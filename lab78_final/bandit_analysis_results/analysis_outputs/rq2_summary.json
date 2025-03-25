@@ -1,0 +1,72 @@
+{
+  "repo_stats": {
+    "bandit": {
+      "high_severity": {
+        "intro_rate": 4.0,
+        "fix_rate": 0.0,
+        "ratio": 0.0
+      },
+      "medium_severity": {
+        "intro_rate": 4.0,
+        "fix_rate": 0.0,
+        "ratio": 0.0
+      },
+      "low_severity": {
+        "intro_rate": 3.0,
+        "fix_rate": 0.0,
+        "ratio": 0.0
+      }
+    },
+    "manim": {
+      "high_severity": {
+        "intro_rate": 0.0,
+        "fix_rate": 1.0,
+        "ratio": 0
+      },
+      "medium_severity": {
+        "intro_rate": 3.0,
+        "fix_rate": 3.0,
+        "ratio": 1.0
+      },
+      "low_severity": {
+        "intro_rate": 2.0,
+        "fix_rate": 4.0,
+        "ratio": 2.0
+      }
+    },
+    "flask": {
+      "high_severity": {
+        "intro_rate": 1.0,
+        "fix_rate": 1.0,
+        "ratio": 1.0
+      },
+      "medium_severity": {
+        "intro_rate": 0.0,
+        "fix_rate": 0.0,
+        "ratio": 0
+      },
+      "low_severity": {
+        "intro_rate": 12.0,
+        "fix_rate": 7.000000000000001,
+        "ratio": 0.5833333333333334
+      }
+    }
+  },
+  "severity_comparisons": {
+    "introduction_rates": {
+      "high_severity_avg": 1.6666666666666667,
+      "medium_severity_avg": 2.3333333333333335,
+      "low_severity_avg": 5.666666666666667
+    },
+    "fix_rates": {
+      "high_severity_avg": 0.6666666666666666,
+      "medium_severity_avg": 1.0,
+      "low_severity_avg": 3.6666666666666665
+    },
+    "fix_to_intro_ratios": {
+      "high_severity_avg": 0.39999999999999997,
+      "medium_severity_avg": 0.42857142857142855,
+      "low_severity_avg": 0.6470588235294117
+    }
+  }
+}

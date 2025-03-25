@@ -1,0 +1,991 @@
+Processing file 99/181: algorithms/matrix/sparse_mul.py
+Generating tests for algorithms.matrix.sparse_mul...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_matrix_sparse_mul --module-name=algorithms.matrix.sparse_mul --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.matrix.sparse_mul, terminating...
+Process terminated.
+No test files generated for algorithms.matrix.sparse_mul. Skipping.
+Processing file 100/181: algorithms/matrix/spiral_traversal.py
+Generating tests for algorithms.matrix.spiral_traversal...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_matrix_spiral_traversal --module-name=algorithms.matrix.spiral_traversal --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.matrix.spiral_traversal, terminating...
+Process terminated.
+No test files generated for algorithms.matrix.spiral_traversal. Skipping.
+Processing file 101/181: algorithms/matrix/sudoku_validator.py
+Generating tests for algorithms.matrix.sudoku_validator...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_matrix_sudoku_validator --module-name=algorithms.matrix.sudoku_validator --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.matrix.sudoku_validator, terminating...
+Process terminated.
+No test files generated for algorithms.matrix.sudoku_validator. Skipping.
+Processing file 102/181: algorithms/matrix/sum_sub_squares.py
+Generating tests for algorithms.matrix.sum_sub_squares...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_matrix_sum_sub_squares --module-name=algorithms.matrix.sum_sub_squares --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.matrix.sum_sub_squares, terminating...
+Process terminated.
+Successfully generated tests for algorithms.matrix.sum_sub_squares
+Processing file 103/181: algorithms/queues/moving_average.py
+Generating tests for algorithms.queues.moving_average...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_queues_moving_average --module-name=algorithms.queues.moving_average --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.queues.moving_average, terminating...
+Process terminated.
+No test files generated for algorithms.queues.moving_average. Skipping.
+Processing file 104/181: algorithms/queues/priority_queue.py
+Generating tests for algorithms.queues.priority_queue...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_queues_priority_queue --module-name=algorithms.queues.priority_queue --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.queues.priority_queue
+Processing file 105/181: algorithms/queues/queue.py
+Generating tests for algorithms.queues.queue...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_queues_queue --module-name=algorithms.queues.queue --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.queues.queue, terminating...
+Process terminated.
+No test files generated for algorithms.queues.queue. Skipping.
+Processing file 106/181: algorithms/queues/zigzagiterator.py
+Generating tests for algorithms.queues.zigzagiterator...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_queues_zigzagiterator --module-name=algorithms.queues.zigzagiterator --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.queues.zigzagiterator, terminating...
+Process terminated.
+No test files generated for algorithms.queues.zigzagiterator. Skipping.
+Processing file 107/181: algorithms/search/interpolation_search.py
+Generating tests for algorithms.search.interpolation_search...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_search_interpolation_search --module-name=algorithms.search.interpolation_search --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.search.interpolation_search, terminating...
+Process terminated.
+No test files generated for algorithms.search.interpolation_search. Skipping.
+Processing file 108/181: algorithms/search/jump_search.py
+Generating tests for algorithms.search.jump_search...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_search_jump_search --module-name=algorithms.search.jump_search --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.search.jump_search, terminating...
+Process terminated.
+No test files generated for algorithms.search.jump_search. Skipping.
+Processing file 109/181: algorithms/search/search_rotate.py
+Generating tests for algorithms.search.search_rotate...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_search_search_rotate --module-name=algorithms.search.search_rotate --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.search.search_rotate, terminating...
+Process terminated.
+No test files generated for algorithms.search.search_rotate. Skipping.
+Processing file 110/181: algorithms/search/ternary_search.py
+Generating tests for algorithms.search.ternary_search...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_search_ternary_search --module-name=algorithms.search.ternary_search --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.search.ternary_search, terminating...
+Process terminated.
+No test files generated for algorithms.search.ternary_search. Skipping.
+Processing file 111/181: algorithms/search/two_sum.py
+Generating tests for algorithms.search.two_sum...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_search_two_sum --module-name=algorithms.search.two_sum --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.search.two_sum, terminating...
+Process terminated.
+No test files generated for algorithms.search.two_sum. Skipping.
+Processing file 112/181: algorithms/set/randomized_set.py
+Generating tests for algorithms.set.randomized_set...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_set_randomized_set --module-name=algorithms.set.randomized_set --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.set.randomized_set
+Processing file 113/181: algorithms/set/set_covering.py
+Generating tests for algorithms.set.set_covering...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_set_set_covering --module-name=algorithms.set.set_covering --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.set.set_covering, terminating...
+Process terminated.
+No test files generated for algorithms.set.set_covering. Skipping.
+Processing file 114/181: algorithms/sort/bitonic_sort.py
+Generating tests for algorithms.sort.bitonic_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_bitonic_sort --module-name=algorithms.sort.bitonic_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.bitonic_sort, terminating...
+Process terminated.
+No test files generated for algorithms.sort.bitonic_sort. Skipping.
+Processing file 115/181: algorithms/sort/bogo_sort.py
+Generating tests for algorithms.sort.bogo_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_bogo_sort --module-name=algorithms.sort.bogo_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.bogo_sort, terminating...
+Process terminated.
+No test files generated for algorithms.sort.bogo_sort. Skipping.
+Processing file 116/181: algorithms/sort/bubble_sort.py
+Generating tests for algorithms.sort.bubble_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_bubble_sort --module-name=algorithms.sort.bubble_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.bubble_sort, terminating...
+Process terminated.
+No test files generated for algorithms.sort.bubble_sort. Skipping.
+Processing file 117/181: algorithms/sort/cocktail_shaker_sort.py
+Generating tests for algorithms.sort.cocktail_shaker_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_cocktail_shaker_sort --module-name=algorithms.sort.cocktail_shaker_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.cocktail_shaker_sort, terminating...
+Process terminated.
+No test files generated for algorithms.sort.cocktail_shaker_sort. Skipping.
+Processing file 118/181: algorithms/sort/counting_sort.py
+Generating tests for algorithms.sort.counting_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_counting_sort --module-name=algorithms.sort.counting_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.sort.counting_sort
+Processing file 119/181: algorithms/sort/cycle_sort.py
+Generating tests for algorithms.sort.cycle_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_cycle_sort --module-name=algorithms.sort.cycle_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.cycle_sort, terminating...
+Process terminated.
+No test files generated for algorithms.sort.cycle_sort. Skipping.
+Processing file 120/181: algorithms/sort/heap_sort.py
+Generating tests for algorithms.sort.heap_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_heap_sort --module-name=algorithms.sort.heap_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.heap_sort, terminating...
+Process terminated.
+No test files generated for algorithms.sort.heap_sort. Skipping.
+Processing file 121/181: algorithms/sort/insertion_sort.py
+Generating tests for algorithms.sort.insertion_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_insertion_sort --module-name=algorithms.sort.insertion_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.sort.insertion_sort
+Processing file 122/181: algorithms/sort/meeting_rooms.py
+Generating tests for algorithms.sort.meeting_rooms...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_meeting_rooms --module-name=algorithms.sort.meeting_rooms --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.meeting_rooms, terminating...
+Process terminated.
+No test files generated for algorithms.sort.meeting_rooms. Skipping.
+Processing file 123/181: algorithms/sort/pancake_sort.py
+Generating tests for algorithms.sort.pancake_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_pancake_sort --module-name=algorithms.sort.pancake_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.sort.pancake_sort
+Processing file 124/181: algorithms/sort/quick_sort.py
+Generating tests for algorithms.sort.quick_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_quick_sort --module-name=algorithms.sort.quick_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.sort.quick_sort
+Processing file 125/181: algorithms/sort/radix_sort.py
+Generating tests for algorithms.sort.radix_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_radix_sort --module-name=algorithms.sort.radix_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.radix_sort, terminating...
+Process terminated.
+No test files generated for algorithms.sort.radix_sort. Skipping.
+Processing file 126/181: algorithms/sort/selection_sort.py
+Generating tests for algorithms.sort.selection_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_selection_sort --module-name=algorithms.sort.selection_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.sort.selection_sort
+Processing file 127/181: algorithms/sort/sort_colors.py
+Generating tests for algorithms.sort.sort_colors...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_sort_colors --module-name=algorithms.sort.sort_colors --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.sort_colors, terminating...
+Process terminated.
+No test files generated for algorithms.sort.sort_colors. Skipping.
+Processing file 128/181: algorithms/sort/stooge_sort.py
+Generating tests for algorithms.sort.stooge_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_stooge_sort --module-name=algorithms.sort.stooge_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.stooge_sort, terminating...
+Process terminated.
+No test files generated for algorithms.sort.stooge_sort. Skipping.
+Processing file 129/181: algorithms/sort/top_sort.py
+Generating tests for algorithms.sort.top_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_top_sort --module-name=algorithms.sort.top_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.top_sort, terminating...
+Process terminated.
+No test files generated for algorithms.sort.top_sort. Skipping.
+Processing file 130/181: algorithms/sort/wiggle_sort.py
+Generating tests for algorithms.sort.wiggle_sort...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_sort_wiggle_sort --module-name=algorithms.sort.wiggle_sort --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.sort.wiggle_sort, terminating...
+Process terminated.
+No test files generated for algorithms.sort.wiggle_sort. Skipping.
+Processing file 131/181: algorithms/stack/is_consecutive.py
+Generating tests for algorithms.stack.is_consecutive...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_stack_is_consecutive --module-name=algorithms.stack.is_consecutive --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.stack.is_consecutive, terminating...
+Process terminated.
+No test files generated for algorithms.stack.is_consecutive. Skipping.
+Processing file 132/181: algorithms/stack/is_sorted.py
+Generating tests for algorithms.stack.is_sorted...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_stack_is_sorted --module-name=algorithms.stack.is_sorted --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.stack.is_sorted, terminating...
+Process terminated.
+No test files generated for algorithms.stack.is_sorted. Skipping.
+Processing file 133/181: algorithms/stack/longest_abs_path.py
+Generating tests for algorithms.stack.longest_abs_path...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_stack_longest_abs_path --module-name=algorithms.stack.longest_abs_path --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.stack.longest_abs_path
+Processing file 134/181: algorithms/stack/ordered_stack.py
+Generating tests for algorithms.stack.ordered_stack...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_stack_ordered_stack --module-name=algorithms.stack.ordered_stack --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.stack.ordered_stack, terminating...
+Process terminated.
+No test files generated for algorithms.stack.ordered_stack. Skipping.
+Processing file 135/181: algorithms/stack/remove_min.py
+Generating tests for algorithms.stack.remove_min...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_stack_remove_min --module-name=algorithms.stack.remove_min --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.stack.remove_min
+Processing file 136/181: algorithms/stack/stack.py
+Generating tests for algorithms.stack.stack...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_stack_stack --module-name=algorithms.stack.stack --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.stack.stack, terminating...
+Process terminated.
+No test files generated for algorithms.stack.stack. Skipping.
+Processing file 137/181: algorithms/strings/breaking_bad.py
+Generating tests for algorithms.strings.breaking_bad...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_breaking_bad --module-name=algorithms.strings.breaking_bad --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.breaking_bad, terminating...
+Process terminated.
+No test files generated for algorithms.strings.breaking_bad. Skipping.
+Processing file 138/181: algorithms/strings/contain_string.py
+Generating tests for algorithms.strings.contain_string...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_contain_string --module-name=algorithms.strings.contain_string --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.strings.contain_string
+Processing file 139/181: algorithms/strings/count_binary_substring.py
+Generating tests for algorithms.strings.count_binary_substring...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_count_binary_substring --module-name=algorithms.strings.count_binary_substring --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.strings.count_binary_substring
+Processing file 140/181: algorithms/strings/domain_extractor.py
+Generating tests for algorithms.strings.domain_extractor...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_domain_extractor --module-name=algorithms.strings.domain_extractor --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.strings.domain_extractor
+Processing file 141/181: algorithms/strings/first_unique_char.py
+Generating tests for algorithms.strings.first_unique_char...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_first_unique_char --module-name=algorithms.strings.first_unique_char --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.strings.first_unique_char
+Processing file 142/181: algorithms/strings/fizzbuzz.py
+Generating tests for algorithms.strings.fizzbuzz...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_fizzbuzz --module-name=algorithms.strings.fizzbuzz --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.fizzbuzz, terminating...
+Process terminated.
+No test files generated for algorithms.strings.fizzbuzz. Skipping.
+Processing file 143/181: algorithms/strings/is_palindrome.py
+Generating tests for algorithms.strings.is_palindrome...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_is_palindrome --module-name=algorithms.strings.is_palindrome --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.is_palindrome, terminating...
+Process terminated.
+No test files generated for algorithms.strings.is_palindrome. Skipping.
+Processing file 144/181: algorithms/strings/knuth_morris_pratt.py
+Generating tests for algorithms.strings.knuth_morris_pratt...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_knuth_morris_pratt --module-name=algorithms.strings.knuth_morris_pratt --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.knuth_morris_pratt, terminating...
+Process terminated.
+No test files generated for algorithms.strings.knuth_morris_pratt. Skipping.
+Processing file 145/181: algorithms/strings/longest_common_prefix.py
+Generating tests for algorithms.strings.longest_common_prefix...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_longest_common_prefix --module-name=algorithms.strings.longest_common_prefix --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.longest_common_prefix, terminating...
+Process terminated.
+No test files generated for algorithms.strings.longest_common_prefix. Skipping.
+Processing file 146/181: algorithms/strings/longest_palindromic_substring.py
+Generating tests for algorithms.strings.longest_palindromic_substring...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_longest_palindromic_substring --module-name=algorithms.strings.longest_palindromic_substring --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.longest_palindromic_substring, terminating...
+Process terminated.
+No test files generated for algorithms.strings.longest_palindromic_substring. Skipping.
+Processing file 147/181: algorithms/strings/make_sentence.py
+Generating tests for algorithms.strings.make_sentence...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_make_sentence --module-name=algorithms.strings.make_sentence --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.strings.make_sentence
+Processing file 148/181: algorithms/strings/merge_string_checker.py
+Generating tests for algorithms.strings.merge_string_checker...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_merge_string_checker --module-name=algorithms.strings.merge_string_checker --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.merge_string_checker, terminating...
+Process terminated.
+No test files generated for algorithms.strings.merge_string_checker. Skipping.
+Processing file 149/181: algorithms/strings/one_edit_distance.py
+Generating tests for algorithms.strings.one_edit_distance...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_one_edit_distance --module-name=algorithms.strings.one_edit_distance --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.one_edit_distance, terminating...
+Process terminated.
+No test files generated for algorithms.strings.one_edit_distance. Skipping.
+Processing file 150/181: algorithms/strings/rabin_karp.py
+Generating tests for algorithms.strings.rabin_karp...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_rabin_karp --module-name=algorithms.strings.rabin_karp --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+No test files generated for algorithms.strings.rabin_karp. Skipping.
+Processing file 151/181: algorithms/strings/repeat_string.py
+Generating tests for algorithms.strings.repeat_string...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_repeat_string --module-name=algorithms.strings.repeat_string --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.repeat_string, terminating...
+Process terminated.
+No test files generated for algorithms.strings.repeat_string. Skipping.
+Processing file 152/181: algorithms/strings/reverse_vowel.py
+Generating tests for algorithms.strings.reverse_vowel...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_reverse_vowel --module-name=algorithms.strings.reverse_vowel --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.reverse_vowel, terminating...
+Process terminated.
+No test files generated for algorithms.strings.reverse_vowel. Skipping.
+Processing file 153/181: algorithms/strings/strip_url_params.py
+Generating tests for algorithms.strings.strip_url_params...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_strip_url_params --module-name=algorithms.strings.strip_url_params --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.strip_url_params, terminating...
+Process terminated.
+No test files generated for algorithms.strings.strip_url_params. Skipping.
+Processing file 154/181: algorithms/strings/text_justification.py
+Generating tests for algorithms.strings.text_justification...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_text_justification --module-name=algorithms.strings.text_justification --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.text_justification, terminating...
+Process terminated.
+No test files generated for algorithms.strings.text_justification. Skipping.
+Processing file 155/181: algorithms/strings/validate_coordinates.py
+Generating tests for algorithms.strings.validate_coordinates...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_strings_validate_coordinates --module-name=algorithms.strings.validate_coordinates --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.strings.validate_coordinates, terminating...
+Process terminated.
+No test files generated for algorithms.strings.validate_coordinates. Skipping.
+Processing file 156/181: algorithms/tree/avl/avl.py
+Generating tests for algorithms.tree.avl.avl...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_avl_avl --module-name=algorithms.tree.avl.avl --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.avl.avl, terminating...
+Process terminated.
+No test files generated for algorithms.tree.avl.avl. Skipping.
+Processing file 157/181: algorithms/tree/b_tree.py
+Generating tests for algorithms.tree.b_tree...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_b_tree --module-name=algorithms.tree.b_tree --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.b_tree, terminating...
+Process terminated.
+No test files generated for algorithms.tree.b_tree. Skipping.
+Processing file 158/181: algorithms/tree/bin_tree_to_list.py
+Generating tests for algorithms.tree.bin_tree_to_list...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_bin_tree_to_list --module-name=algorithms.tree.bin_tree_to_list --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.bin_tree_to_list, terminating...
+Process terminated.
+No test files generated for algorithms.tree.bin_tree_to_list. Skipping.
+Processing file 159/181: algorithms/tree/binary_tree_paths.py
+Generating tests for algorithms.tree.binary_tree_paths...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_binary_tree_paths --module-name=algorithms.tree.binary_tree_paths --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.binary_tree_paths, terminating...
+Process terminated.
+No test files generated for algorithms.tree.binary_tree_paths. Skipping.
+Processing file 160/181: algorithms/tree/construct_tree_postorder_preorder.py
+Generating tests for algorithms.tree.construct_tree_postorder_preorder...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_construct_tree_postorder_preorder --module-name=algorithms.tree.construct_tree_postorder_preorder --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.construct_tree_postorder_preorder, terminating...
+Process terminated.
+No test files generated for algorithms.tree.construct_tree_postorder_preorder. Skipping.
+Processing file 161/181: algorithms/tree/deepest_left.py
+Generating tests for algorithms.tree.deepest_left...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_deepest_left --module-name=algorithms.tree.deepest_left --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.deepest_left, terminating...
+Process terminated.
+No test files generated for algorithms.tree.deepest_left. Skipping.
+Processing file 162/181: algorithms/tree/invert_tree.py
+Generating tests for algorithms.tree.invert_tree...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_invert_tree --module-name=algorithms.tree.invert_tree --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.invert_tree, terminating...
+Process terminated.
+No test files generated for algorithms.tree.invert_tree. Skipping.
+Processing file 163/181: algorithms/tree/is_balanced.py
+Generating tests for algorithms.tree.is_balanced...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_is_balanced --module-name=algorithms.tree.is_balanced --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.is_balanced, terminating...
+Process terminated.
+No test files generated for algorithms.tree.is_balanced. Skipping.
+Processing file 164/181: algorithms/tree/is_subtree.py
+Generating tests for algorithms.tree.is_subtree...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_is_subtree --module-name=algorithms.tree.is_subtree --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.is_subtree, terminating...
+Process terminated.
+No test files generated for algorithms.tree.is_subtree. Skipping.
+Processing file 165/181: algorithms/tree/is_symmetric.py
+Generating tests for algorithms.tree.is_symmetric...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_is_symmetric --module-name=algorithms.tree.is_symmetric --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.is_symmetric, terminating...
+Process terminated.
+No test files generated for algorithms.tree.is_symmetric. Skipping.
+Processing file 166/181: algorithms/tree/longest_consecutive.py
+Generating tests for algorithms.tree.longest_consecutive...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_longest_consecutive --module-name=algorithms.tree.longest_consecutive --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.longest_consecutive, terminating...
+Process terminated.
+No test files generated for algorithms.tree.longest_consecutive. Skipping.
+Processing file 167/181: algorithms/tree/lowest_common_ancestor.py
+Generating tests for algorithms.tree.lowest_common_ancestor...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_lowest_common_ancestor --module-name=algorithms.tree.lowest_common_ancestor --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.lowest_common_ancestor, terminating...
+Process terminated.
+No test files generated for algorithms.tree.lowest_common_ancestor. Skipping.
+Processing file 168/181: algorithms/tree/max_height.py
+Generating tests for algorithms.tree.max_height...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_max_height --module-name=algorithms.tree.max_height --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+No test files generated for algorithms.tree.max_height. Skipping.
+Processing file 169/181: algorithms/tree/max_path_sum.py
+Generating tests for algorithms.tree.max_path_sum...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_max_path_sum --module-name=algorithms.tree.max_path_sum --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.tree.max_path_sum
+Processing file 170/181: algorithms/tree/min_height.py
+Generating tests for algorithms.tree.min_height...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_min_height --module-name=algorithms.tree.min_height --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+No test files generated for algorithms.tree.min_height. Skipping.
+Processing file 171/181: algorithms/tree/path_sum.py
+Generating tests for algorithms.tree.path_sum...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_path_sum --module-name=algorithms.tree.path_sum --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.path_sum, terminating...
+Process terminated.
+No test files generated for algorithms.tree.path_sum. Skipping.
+Processing file 172/181: algorithms/tree/path_sum2.py
+Generating tests for algorithms.tree.path_sum2...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_path_sum2 --module-name=algorithms.tree.path_sum2 --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.path_sum2, terminating...
+Process terminated.
+No test files generated for algorithms.tree.path_sum2. Skipping.
+Processing file 173/181: algorithms/tree/pretty_print.py
+Generating tests for algorithms.tree.pretty_print...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_pretty_print --module-name=algorithms.tree.pretty_print --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.tree.pretty_print
+Processing file 174/181: algorithms/tree/same_tree.py
+Generating tests for algorithms.tree.same_tree...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_same_tree --module-name=algorithms.tree.same_tree --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.same_tree, terminating...
+Process terminated.
+No test files generated for algorithms.tree.same_tree. Skipping.
+Processing file 175/181: algorithms/tree/traversal/inorder.py
+Generating tests for algorithms.tree.traversal.inorder...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_traversal_inorder --module-name=algorithms.tree.traversal.inorder --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.traversal.inorder, terminating...
+Process terminated.
+No test files generated for algorithms.tree.traversal.inorder. Skipping.
+Processing file 176/181: algorithms/tree/traversal/level_order.py
+Generating tests for algorithms.tree.traversal.level_order...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_traversal_level_order --module-name=algorithms.tree.traversal.level_order --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.traversal.level_order, terminating...
+Process terminated.
+No test files generated for algorithms.tree.traversal.level_order. Skipping.
+Processing file 177/181: algorithms/tree/traversal/postorder.py
+Generating tests for algorithms.tree.traversal.postorder...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_traversal_postorder --module-name=algorithms.tree.traversal.postorder --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.traversal.postorder, terminating...
+Process terminated.
+No test files generated for algorithms.tree.traversal.postorder. Skipping.
+Processing file 178/181: algorithms/tree/traversal/preorder.py
+Generating tests for algorithms.tree.traversal.preorder...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_traversal_preorder --module-name=algorithms.tree.traversal.preorder --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.traversal.preorder, terminating...
+Process terminated.
+No test files generated for algorithms.tree.traversal.preorder. Skipping.
+Processing file 179/181: algorithms/tree/traversal/zigzag.py
+Generating tests for algorithms.tree.traversal.zigzag...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_traversal_zigzag --module-name=algorithms.tree.traversal.zigzag --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.tree.traversal.zigzag, terminating...
+Process terminated.
+No test files generated for algorithms.tree.traversal.zigzag. Skipping.
+Processing file 180/181: algorithms/tree/tree.py
+Generating tests for algorithms.tree.tree...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_tree_tree --module-name=algorithms.tree.tree --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Successfully generated tests for algorithms.tree.tree
+Processing file 181/181: algorithms/unix/path/simplify_path.py
+Generating tests for algorithms.unix.path.simplify_path...
+Running command: pynguin --project-path=. --output-path=pynguin_tests/algorithms_unix_path_simplify_path --module-name=algorithms.unix.path.simplify_path --algorithm=DYNAMOSA --budget 60 -v
+Waiting for Pynguin to complete (max 90 seconds)...
+Pynguin is taking too long for algorithms.unix.path.simplify_path, terminating...
+Process terminated.
+No test files generated for algorithms.unix.path.simplify_path. Skipping.
+
+Test generation complete: 42/181 files processed successfully with Pynguin
+
+
+======== Step 6: Running Test Suite B and measuring coverage ========
+Successfully imported algorithms package from /home/set-iitgn-vm/5_final/algorithms/algorithms/__init__.py
+Found 95 test files
+Discovering tests in pynguin_tests...
+[False, 1, 1, 2, 1, 3, 'a', 0, 0]
+[1, 2, -3, 4, 5, -7, 23]
+25
+Maximum Obtainable Value is 22
+path: a
+        b1
+                f1.txt
+        aaaaa
+                f2.txt
+---------
+<path>: a
+depth:  0
+stack:  []
+curlen:  0
+stack:  [2]
+curlen:  2
+---------
+<path>:         b1
+depth:  1
+stack:  [2]
+curlen:  2
+stack:  [2, 3]
+curlen:  5
+---------
+<path>:                 f1.txt
+depth:  2
+stack:  [2, 3]
+curlen:  5
+stack:  [2, 3, 7]
+curlen:  12
+---------
+<path>:         aaaaa
+depth:  1
+stack:  [2, 3, 7]
+curlen:  12
+stack:  [2, 6]
+curlen:  8
+---------
+<path>:                 f2.txt
+depth:  2
+stack:  [2, 6]
+curlen:  8
+stack:  [2, 6, 7]
+curlen:  15
+answer: 14
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.001s
+
+OK
+
+Coverage Report:
+Name                                                         Stmts   Miss  Cover
+--------------------------------------------------------------------------------
+algorithms/__init__.py                                           0      0   100%
+algorithms/arrays/__init__.py                                   19      0   100%
+algorithms/arrays/delete_nth.py                                 15     12    20%
+algorithms/arrays/flatten.py                                    14     11    21%
+algorithms/arrays/garage.py                                     18     16    11%
+algorithms/arrays/josephus.py                                    8      7    12%
+algorithms/arrays/limit.py                                       8      7    12%
+algorithms/arrays/longest_non_repeat.py                         63     58     8%
+algorithms/arrays/max_ones_index.py                             16     15     6%
+algorithms/arrays/merge_intervals.py                            46     33    28%
+algorithms/arrays/missing_ranges.py                             12     11     8%
+algorithms/arrays/move_zeros.py                                 10      0   100%
+algorithms/arrays/n_sum.py                                      64     63     2%
+algorithms/arrays/plus_one.py                                   30     27    10%
+algorithms/arrays/remove_duplicates.py                           6      5    17%
+algorithms/arrays/rotate.py                                     28     25    11%
+algorithms/arrays/summarize_ranges.py                           14     12    14%
+algorithms/arrays/three_sum.py                                  21     20     5%
+algorithms/arrays/top_1.py                                      14     13     7%
+algorithms/arrays/trimmean.py                                    9      8    11%
+algorithms/arrays/two_sum.py                                     7      6    14%
+algorithms/automata/__init__.py                                  1      1     0%
+algorithms/automata/dfa.py                                      12     12     0%
+algorithms/backtrack/__init__.py                                15      0   100%
+algorithms/backtrack/add_operators.py                           20     19     5%
+algorithms/backtrack/anagram.py                                 10      9    10%
+algorithms/backtrack/array_sum_combinations.py                  47     43     9%
+algorithms/backtrack/combination_sum.py                         13     12     8%
+algorithms/backtrack/factor_combinations.py                     19     17    11%
+algorithms/backtrack/find_words.py                              27     26     4%
+algorithms/backtrack/generate_abbreviations.py                  14     13     7%
+algorithms/backtrack/generate_parenthesis.py                    23     21     9%
+algorithms/backtrack/letter_combination.py                      12     11     8%
+algorithms/backtrack/palindrome_partitioning.py                 20     17    15%
+algorithms/backtrack/pattern_match.py                           17     16     6%
+algorithms/backtrack/permute.py                                 24     21    12%
+algorithms/backtrack/permute_unique.py                          11     10     9%
+algorithms/backtrack/subsets.py                                 17     14    18%
+algorithms/backtrack/subsets_unique.py                          11     10     9%
+algorithms/bfs/__init__.py                                       4      4     0%
+algorithms/bfs/count_islands.py                                 23     23     0%
+algorithms/bfs/maze_search.py                                   27     27     0%
+algorithms/bfs/shortest_distance_from_all_buildings.py          27     27     0%
+algorithms/bfs/word_ladder.py                                   32     32     0%
+algorithms/bit/__init__.py                                      19     19     0%
+algorithms/bit/add_bitwise_operator.py                           6      6     0%
+algorithms/bit/binary_gap.py                                    28     28     0%
+algorithms/bit/bit_operation.py                                 14     14     0%
+algorithms/bit/bytes_int_conversion.py                          26     26     0%
+algorithms/bit/count_flips_to_convert.py                         7      7     0%
+algorithms/bit/count_ones.py                                    10     10     0%
+algorithms/bit/find_difference.py                                6      6     0%
+algorithms/bit/find_missing_number.py                           12     12     0%
+algorithms/bit/flip_bit_longest_sequence.py                     15     15     0%
+algorithms/bit/has_alternative_bit.py                           16     16     0%
+algorithms/bit/insert_bit.py                                    13     13     0%
+algorithms/bit/power_of_two.py                                   2      2     0%
+algorithms/bit/remove_bit.py                                     5      5     0%
+algorithms/bit/reverse_bits.py                                   8      8     0%
+algorithms/bit/single_number2.py                                 6      6     0%
+algorithms/bit/single_number3.py                                11     11     0%
+algorithms/bit/single_number.py                                  5      5     0%
+algorithms/bit/subsets.py                                        9      9     0%
+algorithms/bit/swap_pair.py                                      5      5     0%
+algorithms/compression/__init__.py                               0      0   100%
+algorithms/compression/elias.py                                 18     18     0%
+algorithms/compression/huffman_coding.py                       214    214     0%
+algorithms/compression/rle_compression.py                       22     22     0%
+algorithms/dfs/__init__.py                                       6      0   100%
+algorithms/dfs/all_factors.py                                   33     30     9%
+algorithms/dfs/count_islands.py                                 18     16    11%
+algorithms/dfs/maze_search.py                                   22     20     9%
+algorithms/dfs/pacific_atlantic.py                              29     27     7%
+algorithms/dfs/sudoku_solver.py                                 59     52    12%
+algorithms/dfs/walls_and_gates.py                               15     13    13%
+algorithms/distribution/__init__.py                              0      0   100%
+algorithms/distribution/histogram.py                             5      5     0%
+algorithms/dp/__init__.py                                       23      0   100%
+algorithms/dp/buy_sell_stock.py                                 12     10    17%
+algorithms/dp/climbing_stairs.py                                10      8    20%
+algorithms/dp/coin_change.py                                     6      5    17%
+algorithms/dp/combination_sum.py                                22     18    18%
+algorithms/dp/edit_distance.py                                  12     11     8%
+algorithms/dp/egg_drop.py                                       16     14    12%
+algorithms/dp/fib.py                                            23     20    13%
+algorithms/dp/hosoya_triangle.py                                21     18    14%
+algorithms/dp/house_robber.py                                    5      4    20%
+algorithms/dp/int_divide.py                                     11     10     9%
+algorithms/dp/job_scheduling.py                                 28     24    14%
+algorithms/dp/k_factor.py                                       30     29     3%
+algorithms/dp/knapsack.py                                       10      7    30%
+algorithms/dp/longest_common_subsequence.py                     12     11     8%
+algorithms/dp/longest_increasing.py                             61     58     5%
+algorithms/dp/matrix_chain_order.py                             28     24    14%
+algorithms/dp/max_product_subarray.py                           30     26    13%
+algorithms/dp/max_subarray.py                                    9      0   100%
+algorithms/dp/min_cost_path.py                                   9      7    22%
+algorithms/dp/num_decodings.py                                  23     21     9%
+algorithms/dp/planting_trees.py                                 15     13    13%
+algorithms/dp/regex_matching.py                                 14     13     7%
+algorithms/dp/rod_cut.py                                        12      0   100%
+algorithms/dp/word_break.py                                      9      8    11%
+algorithms/graph/__init__.py                                     8      0   100%
+algorithms/graph/all_pairs_shortest_path.py                     10      8    20%
+algorithms/graph/bellman_ford.py                                20     18    10%
+algorithms/graph/check_bipartite.py                             17     16     6%
+algorithms/graph/check_digraph_strongly_connected.py            30     30     0%
+algorithms/graph/clone_graph.py                                 56     56     0%
+algorithms/graph/count_connected_number_of_component.py         22     22     0%
+algorithms/graph/cycle_detection.py                             20     20     0%
+algorithms/graph/dijkstra.py                                    26     26     0%
+algorithms/graph/find_all_cliques.py                            22     21     5%
+algorithms/graph/find_path.py                                   38     38     0%
+algorithms/graph/graph.py                                       60     41    32%
+algorithms/graph/markov_chain.py                                16     16     0%
+algorithms/graph/maximum_flow.py                               100     93     7%
+algorithms/graph/maximum_flow_bfs.py                            33     29    12%
+algorithms/graph/maximum_flow_dfs.py                            32     29     9%
+algorithms/graph/minimum_spanning_tree.py                       47     47     0%
+algorithms/graph/path_between_two_vertices_in_digraph.py        23     23     0%
+algorithms/graph/prims_minimum_spanning.py                      17     15    12%
+algorithms/graph/satisfiability.py                              68     68     0%
+algorithms/graph/strongly_connected_components_kosaraju.py      31     31     0%
+algorithms/graph/tarjan.py                                      34     30    12%
+algorithms/graph/transitive_closure_dfs.py                      18     13    28%
+algorithms/graph/traversal.py                                   28     28     0%
+algorithms/greedy/__init__.py                                    1      0   100%
+algorithms/greedy/max_contiguous_subsequence_sum.py             12     11     8%
+algorithms/heap/__init__.py                                      5      0   100%
+algorithms/heap/binary_heap.py                                  47     26    45%
+algorithms/heap/k_closest_points.py                             12      9    25%
+algorithms/heap/merge_sorted_k_lists.py                         32     25    22%
+algorithms/heap/skyline.py                                      17     15    12%
+algorithms/heap/sliding_window_max.py                           14     12    14%
+algorithms/linkedlist/__init__.py                                9      0   100%
+algorithms/linkedlist/add_two_numbers.py                        81     81     0%
+algorithms/linkedlist/copy_random_pointer.py                    27     22    19%
+algorithms/linkedlist/delete_node.py                            31     31     0%
+algorithms/linkedlist/first_cyclic_node.py                      32     32     0%
+algorithms/linkedlist/intersection.py                           55     55     0%
+algorithms/linkedlist/is_cyclic.py                              15     12    20%
+algorithms/linkedlist/is_palindrome.py                          60     57     5%
+algorithms/linkedlist/is_sorted.py                               9      8    11%
+algorithms/linkedlist/kth_to_last.py                            79     79     0%
+algorithms/linkedlist/linkedlist.py                              9      5    44%
+algorithms/linkedlist/merge_two_list.py                         23     19    17%
+algorithms/linkedlist/partition.py                              47     47     0%
+algorithms/linkedlist/remove_duplicates.py                      48     48     0%
+algorithms/linkedlist/remove_range.py                           13     12     8%
+algorithms/linkedlist/reverse.py                                18     16    11%
+algorithms/linkedlist/rotate_list.py                            15     14     7%
+algorithms/linkedlist/swap_in_pairs.py                          18     15    17%
+algorithms/map/__init__.py                                       6      0   100%
+algorithms/map/hashtable.py                                     75     57    24%
+algorithms/map/is_anagram.py                                     8      7    12%
+algorithms/map/is_isomorphic.py                                 14     13     7%
+algorithms/map/longest_common_subsequence.py                    18     18     0%
+algorithms/map/longest_palindromic_subsequence.py               24     23     4%
+algorithms/map/randomized_set.py                                22     22     0%
+algorithms/map/separate_chaining_hashtable.py                   54     40    26%
+algorithms/map/valid_sudoku.py                                   7      7     0%
+algorithms/map/word_pattern.py                                  15     14     7%
+algorithms/maths/__init__.py                                    25      0   100%
+algorithms/maths/base_conversion.py                             26     23    12%
+algorithms/maths/chinese_remainder_theorem.py                   29     29     0%
+algorithms/maths/combination.py                                 13     11    15%
+algorithms/maths/cosine_similarity.py                           17     14    18%
+algorithms/maths/decimal_to_binary_ip.py                        16     14    12%
+algorithms/maths/diffie_hellman_key_exchange.py                 90     72    20%
+algorithms/maths/euler_totient.py                               10      9    10%
+algorithms/maths/extended_gcd.py                                10      9    10%
+algorithms/maths/factorial.py                                   24     22     8%
+algorithms/maths/fft.py                                         13     13     0%
+algorithms/maths/find_order_simple.py                           11      9    18%
+algorithms/maths/find_primitive_root_simple.py                  36     29    19%
+algorithms/maths/gcd.py                                         33     27    18%
+algorithms/maths/generate_strobogrammtic.py                     46     42     9%
+algorithms/maths/hailstone.py                                    8      8     0%
+algorithms/maths/is_strobogrammatic.py                          12     10    17%
+algorithms/maths/krishnamurthy_number.py                        15     13    13%
+algorithms/maths/magic_number.py                                 9      8    11%
+algorithms/maths/modular_exponential.py                         11     10     9%
+algorithms/maths/modular_inverse.py                             15     15     0%
+algorithms/maths/next_bigger.py                                 24     24     0%
+algorithms/maths/next_perfect_square.py                          8      6    25%
+algorithms/maths/nth_digit.py                                   12     11     8%
+algorithms/maths/num_digits.py                                   6      4    33%
+algorithms/maths/num_perfect_squares.py                         12     10    17%
+algorithms/maths/polynomial.py                                 260    260     0%
+algorithms/maths/power.py                                       23     21     9%
+algorithms/maths/prime_check.py                                 13     12     8%
+algorithms/maths/primes_sieve_of_eratosthenes.py                15     14     7%
+algorithms/maths/pythagoras.py                                  11     10     9%
+algorithms/maths/rabin_miller.py                                26     24     8%
+algorithms/maths/recursive_binomial_coefficient.py               8      7    12%
+algorithms/maths/rsa.py                                         39     35    10%
+algorithms/maths/sqrt_precision_factor.py                        5      5     0%
+algorithms/maths/summing_digits.py                              15     15     0%
+algorithms/maths/symmetry_group_cycle_index.py                  38     38     0%
+algorithms/matrix/__init__.py                                    0      0   100%
+algorithms/matrix/bomb_enemy.py                                 42     42     0%
+algorithms/matrix/cholesky_matrix_decomposition.py              21     21     0%
+algorithms/matrix/copy_transform.py                             40     40     0%
+algorithms/matrix/count_paths.py                                15     15     0%
+algorithms/matrix/crout_matrix_decomposition.py                 19     18     5%
+algorithms/matrix/matrix_exponentiation.py                      20     20     0%
+algorithms/matrix/matrix_inversion.py                           68     68     0%
+algorithms/matrix/multiply.py                                   11     10     9%
+algorithms/matrix/rotate_image.py                                8      8     0%
+algorithms/matrix/search_in_sorted_matrix.py                    15     15     0%
+algorithms/matrix/sort_matrix_diagonally.py                     36     36     0%
+algorithms/matrix/sparse_dot_vector.py                          38     38     0%
+algorithms/matrix/sparse_mul.py                                 61     61     0%
+algorithms/matrix/spiral_traversal.py                           24     24     0%
+algorithms/matrix/sudoku_validator.py                           54     54     0%
+algorithms/matrix/sum_sub_squares.py                            15     14     7%
+algorithms/queues/__init__.py                                    4      0   100%
+algorithms/queues/max_sliding_window.py                         13     11    15%
+algorithms/queues/moving_average.py                              8      8     0%
+algorithms/queues/priority_queue.py                             26     18    31%
+algorithms/queues/queue.py                                      87     59    32%
+algorithms/queues/reconstruct_queue.py                           6      5    17%
+algorithms/queues/zigzagiterator.py                             19     19     0%
+algorithms/search/__init__.py                                   13     13     0%
+algorithms/search/binary_search.py                              20     20     0%
+algorithms/search/find_min_rotate.py                            16     16     0%
+algorithms/search/first_occurrence.py                           11     11     0%
+algorithms/search/interpolation_search.py                       12     12     0%
+algorithms/search/jump_search.py                                18     18     0%
+algorithms/search/last_occurrence.py                             9      9     0%
+algorithms/search/linear_search.py                               5      5     0%
+algorithms/search/next_greatest_letter.py                       21     21     0%
+algorithms/search/search_insert.py                               9      9     0%
+algorithms/search/search_range.py                               12     12     0%
+algorithms/search/search_rotate.py                              27     27     0%
+algorithms/search/ternary_search.py                             15     15     0%
+algorithms/search/two_sum.py                                    29     29     0%
+algorithms/set/__init__.py                                       1      0   100%
+algorithms/set/find_keyboard_row.py                              8      7    12%
+algorithms/set/randomized_set.py                                38     31    18%
+algorithms/set/set_covering.py                                  39     39     0%
+algorithms/sort/__init__.py                                     21      0   100%
+algorithms/sort/bitonic_sort.py                                 24     23     4%
+algorithms/sort/bogo_sort.py                                    19     17    11%
+algorithms/sort/bubble_sort.py                                  20     19     5%
+algorithms/sort/bucket_sort.py                                  19     17    11%
+algorithms/sort/cocktail_shaker_sort.py                         19     18     5%
+algorithms/sort/comb_sort.py                                    20     19     5%
+algorithms/sort/counting_sort.py                                18     17     6%
+algorithms/sort/cycle_sort.py                                   22     21     5%
+algorithms/sort/exchange_sort.py                                 7      6    14%
+algorithms/sort/gnome_sort.py                                    9      8    11%
+algorithms/sort/heap_sort.py                                    51     47     8%
+algorithms/sort/insertion_sort.py                               15     14     7%
+algorithms/sort/meeting_rooms.py                                 6      6     0%
+algorithms/sort/merge_sort.py                                   19     17    11%
+algorithms/sort/pancake_sort.py                                 11     10     9%
+algorithms/sort/pigeonhole_sort.py                              14     13     7%
+algorithms/sort/quick_sort.py                                   23     20    13%
+algorithms/sort/radix_sort.py                                   21     20     5%
+algorithms/sort/selection_sort.py                               14     13     7%
+algorithms/sort/shell_sort.py                                   15     14     7%
+algorithms/sort/sort_colors.py                                  11     11     0%
+algorithms/sort/stooge_sort.py                                  12     11     8%
+algorithms/sort/top_sort.py                                     52     49     6%
+algorithms/sort/wiggle_sort.py                                   4      4     0%
+algorithms/stack/__init__.py                                    10      0   100%
+algorithms/stack/is_consecutive.py                              33     30     9%
+algorithms/stack/is_sorted.py                                   16     15     6%
+algorithms/stack/longest_abs_path.py                            23      0   100%
+algorithms/stack/ordered_stack.py                               24     16    33%
+algorithms/stack/remove_min.py                                  16     15     6%
+algorithms/stack/simplify_path.py                               11     10     9%
+algorithms/stack/stack.py                                       78     49    37%
+algorithms/stack/stutter.py                                     23     20    13%
+algorithms/stack/switch_pairs.py                                35     32     9%
+algorithms/stack/valid_parenthesis.py                           10      9    10%
+algorithms/streaming/__init__.py                                 2      2     0%
+algorithms/streaming/misra_gries.py                             21     21     0%
+algorithms/streaming/one_sparse_recovery.py                     30     30     0%
+algorithms/strings/__init__.py                                  40      0   100%
+algorithms/strings/add_binary.py                                14     13     7%
+algorithms/strings/atbash_cipher.py                             13     12     8%
+algorithms/strings/breaking_bad.py                              53     46    13%
+algorithms/strings/caesar_cipher.py                             10      9    10%
+algorithms/strings/check_pangram.py                              6      5    17%
+algorithms/strings/contain_string.py                            11     10     9%
+algorithms/strings/count_binary_substring.py                    12     11     8%
+algorithms/strings/decode_string.py                             14     13     7%
+algorithms/strings/delete_reoccurring.py                         8      7    12%
+algorithms/strings/domain_extractor.py                           8      6    25%
+algorithms/strings/encode_decode.py                             14     12    14%
+algorithms/strings/first_unique_char.py                          9      8    11%
+algorithms/strings/fizzbuzz.py                                  21     21     0%
+algorithms/strings/group_anagrams.py                            13     12     8%
+algorithms/strings/int_to_roman.py                               6      5    17%
+algorithms/strings/is_palindrome.py                             51     41    20%
+algorithms/strings/is_rotated.py                                14     11    21%
+algorithms/strings/judge_circle.py                               5      4    20%
+algorithms/strings/knuth_morris_pratt.py                        24     22     8%
+algorithms/strings/license_number.py                            10      9    10%
+algorithms/strings/longest_common_prefix.py                     38     30    21%
+algorithms/strings/longest_palindromic_substring.py             21     20     5%
+algorithms/strings/make_sentence.py                             10      8    20%
+algorithms/strings/merge_string_checker.py                      24     22     8%
+algorithms/strings/min_distance.py                              24     21    12%
+algorithms/strings/multiply_strings.py                          14     13     7%
+algorithms/strings/one_edit_distance.py                         22     20     9%
+algorithms/strings/panagram.py                                   8      6    25%
+algorithms/strings/rabin_karp.py                                31     26    16%
+algorithms/strings/repeat_string.py                             11     10     9%
+algorithms/strings/repeat_substring.py                           3      2    33%
+algorithms/strings/reverse_string.py                            18     14    22%
+algorithms/strings/reverse_vowel.py                             12     11     8%
+algorithms/strings/reverse_words.py                             10      8    20%
+algorithms/strings/roman_to_int.py                               8      7    12%
+algorithms/strings/rotate.py                                     8      6    25%
+algorithms/strings/strip_url_params.py                          65     59     9%
+algorithms/strings/strong_password.py                            0      0   100%
+algorithms/strings/text_justification.py                        45     44     2%
+algorithms/strings/unique_morse.py                              14     11    21%
+algorithms/strings/validate_coordinates.py                      22     18    18%
+algorithms/strings/word_squares.py                              20     18    10%
+algorithms/tree/__init__.py                                      0      0   100%
+algorithms/tree/avl/__init__.py                                  0      0   100%
+algorithms/tree/avl/avl.py                                      77     77     0%
+algorithms/tree/b_tree.py                                      149    149     0%
+algorithms/tree/bin_tree_to_list.py                             28     28     0%
+algorithms/tree/binary_tree_paths.py                            13     13     0%
+algorithms/tree/construct_tree_postorder_preorder.py            36     36     0%
+algorithms/tree/deepest_left.py                                 13     13     0%
+algorithms/tree/invert_tree.py                                   8      8     0%
+algorithms/tree/is_balanced.py                                  12     12     0%
+algorithms/tree/is_subtree.py                                   19     19     0%
+algorithms/tree/is_symmetric.py                                 25     25     0%
+algorithms/tree/longest_consecutive.py                          15     15     0%
+algorithms/tree/lowest_common_ancestor.py                        8      8     0%
+algorithms/tree/max_height.py                                   22     22     0%
+algorithms/tree/max_path_sum.py                                 11      9    18%
+algorithms/tree/min_height.py                                   29     29     0%
+algorithms/tree/path_sum2.py                                    42     42     0%
+algorithms/tree/path_sum.py                                     35     35     0%
+algorithms/tree/pretty_print.py                                 10      8    20%
+algorithms/tree/same_tree.py                                     6      6     0%
+algorithms/tree/traversal/__init__.py                            3      3     0%
+algorithms/tree/traversal/inorder.py                            27     27     0%
+algorithms/tree/traversal/level_order.py                        17     17     0%
+algorithms/tree/traversal/postorder.py                          31     31     0%
+algorithms/tree/traversal/preorder.py                           28     28     0%
+algorithms/tree/traversal/zigzag.py                             19     19     0%
+algorithms/tree/tree.py                                          5      3    40%
+algorithms/unix/__init__.py                                      4      4     0%
+--------------------------------------------------------------------------------
+TOTAL                                                         7922   7084    11%
+
+All tests passed successfully!
+Saved Test Suite B coverage results
+
+
+======== Step 7: Comparing test suites and reporting findings ========
+Comparing test suites and analyzing results...
+Report generated and saved to coverage_report.md
+Analysis complete!
+Line Coverage: 70.60% → 8.40%
+Branch Coverage: 71.48% → 10.58%
+
+
+======== Process Complete ========
+All results are available in the 'results' directory:
+total 1312
+drwxrwxr-x 4 set-iitgn-vm set-iitgn-vm   4096 Mar 24 03:49 .
+drwxrwxr-x 5 set-iitgn-vm set-iitgn-vm   4096 Mar 23 21:22 ..
+-rw-rw-r-- 1 set-iitgn-vm set-iitgn-vm  29745 Mar 24 03:49 coverage_comparison.png
+-rw-rw-r-- 1 set-iitgn-vm set-iitgn-vm   2605 Mar 24 03:49 coverage_report.md
+-rw-rw-r-- 1 set-iitgn-vm set-iitgn-vm 598033 Mar 24 00:11 coverage.suite_a.json
+-rw-rw-r-- 1 set-iitgn-vm set-iitgn-vm 583050 Mar 24 03:49 coverage.suite_b.json
+-rw-rw-r-- 1 set-iitgn-vm set-iitgn-vm  53043 Mar 24 03:49 file_improvement.png
+drwxrwxr-x 3 set-iitgn-vm set-iitgn-vm  28672 Mar 23 21:30 htmlcov_suite_a
+drwxrwxr-x 3 set-iitgn-vm set-iitgn-vm  28672 Mar 23 21:32 htmlcov_suite_b
+
+Summary of findings:
+
+### Test Suite A (Original Tests)
+- Line Coverage: 70.60%
+- Branch Coverage: 71.48%
+
+Execution completed!
+(venv) set-iitgn-vm@set-iitgn-vm:~/5_final$ 

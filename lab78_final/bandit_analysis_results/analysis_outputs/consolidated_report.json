@@ -1,0 +1,205 @@
+{
+  "repositories": {
+    "bandit": {
+      "repo_name": "bandit",
+      "total_commits": 100,
+      "avg_high_confidence": 407.82,
+      "avg_medium_confidence": 115.16,
+      "avg_low_confidence": 45.16,
+      "avg_high_severity": 131.78,
+      "avg_medium_severity": 273.91,
+      "avg_low_severity": 162.45,
+      "unique_cwes_count": 22,
+      "top_cwes": {
+        "377": 100,
+        "502": 100,
+        "155": 100,
+        "22": 100,
+        "94": 100
+      }
+    },
+    "manim": {
+      "repo_name": "manim",
+      "total_commits": 100,
+      "avg_high_confidence": 61.27,
+      "avg_medium_confidence": 1.0,
+      "avg_low_confidence": 0.0,
+      "avg_high_severity": 0.12,
+      "avg_medium_severity": 5.17,
+      "avg_low_severity": 56.98,
+      "unique_cwes_count": 6,
+      "top_cwes": {
+        "330": 100,
+        "20": 100,
+        "502": 100,
+        "22": 100,
+        "78": 100
+      }
+    },
+    "flask": {
+      "repo_name": "flask",
+      "total_commits": 100,
+      "avg_high_confidence": 993.5,
+      "avg_medium_confidence": 11.18,
+      "avg_low_confidence": 0.0,
+      "avg_high_severity": 2.84,
+      "avg_medium_severity": 5.0,
+      "avg_low_severity": 996.84,
+      "unique_cwes_count": 6,
+      "top_cwes": {
+        "259": 100,
+        "94": 100,
+        "78": 100,
+        "703": 100,
+        "79": 100
+      }
+    }
+  },
+  "research_questions": {
+    "rq1": {
+      "repo_stats": {
+        "bandit": {
+          "total_commits": 100,
+          "commits_introducing_vulnerabilities": 4,
+          "commits_fixing_vulnerabilities": 0,
+          "percent_introducing": 4.0,
+          "percent_fixing": 0.0,
+          "avg_vulnerabilities_introduced_per_commit": 1.75,
+          "avg_vulnerabilities_fixed_per_commit": 0
+        },
+        "manim": {
+          "total_commits": 100,
+          "commits_introducing_vulnerabilities": 0,
+          "commits_fixing_vulnerabilities": 1,
+          "percent_introducing": 0.0,
+          "percent_fixing": 1.0,
+          "avg_vulnerabilities_introduced_per_commit": 0,
+          "avg_vulnerabilities_fixed_per_commit": 4.0
+        },
+        "flask": {
+          "total_commits": 100,
+          "commits_introducing_vulnerabilities": 1,
+          "commits_fixing_vulnerabilities": 1,
+          "percent_introducing": 1.0,
+          "percent_fixing": 1.0,
+          "avg_vulnerabilities_introduced_per_commit": 1.0,
+          "avg_vulnerabilities_fixed_per_commit": 1.0
+        }
+      },
+      "overall": {
+        "avg_percent_introducing": 1.6666666666666667,
+        "avg_percent_fixing": 0.6666666666666666,
+        "ratio_fix_to_introduce": 0.4
+      }
+    },
+    "rq2": {
+      "repo_stats": {
+        "bandit": {
+          "high_severity": {
+            "intro_rate": 4.0,
+            "fix_rate": 0.0,
+            "ratio": 0.0
+          },
+          "medium_severity": {
+            "intro_rate": 4.0,
+            "fix_rate": 0.0,
+            "ratio": 0.0
+          },
+          "low_severity": {
+            "intro_rate": 3.0,
+            "fix_rate": 0.0,
+            "ratio": 0.0
+          }
+        },
+        "manim": {
+          "high_severity": {
+            "intro_rate": 0.0,
+            "fix_rate": 1.0,
+            "ratio": 0
+          },
+          "medium_severity": {
+            "intro_rate": 3.0,
+            "fix_rate": 3.0,
+            "ratio": 1.0
+          },
+          "low_severity": {
+            "intro_rate": 2.0,
+            "fix_rate": 4.0,
+            "ratio": 2.0
+          }
+        },
+        "flask": {
+          "high_severity": {
+            "intro_rate": 1.0,
+            "fix_rate": 1.0,
+            "ratio": 1.0
+          },
+          "medium_severity": {
+            "intro_rate": 0.0,
+            "fix_rate": 0.0,
+            "ratio": 0
+          },
+          "low_severity": {
+            "intro_rate": 12.0,
+            "fix_rate": 7.000000000000001,
+            "ratio": 0.5833333333333334
+          }
+        }
+      },
+      "severity_comparisons": {
+        "introduction_rates": {
+          "high_severity_avg": 1.6666666666666667,
+          "medium_severity_avg": 2.3333333333333335,
+          "low_severity_avg": 5.666666666666667
+        },
+        "fix_rates": {
+          "high_severity_avg": 0.6666666666666666,
+          "medium_severity_avg": 1.0,
+          "low_severity_avg": 3.6666666666666665
+        },
+        "fix_to_intro_ratios": {
+          "high_severity_avg": 0.39999999999999997,
+          "medium_severity_avg": 0.42857142857142855,
+          "low_severity_avg": 0.6470588235294117
+        }
+      }
+    },
+    "rq3": {
+      "overall_top_cwes": {
+        "CWE-703": 300,
+        "CWE-78": 300,
+        "CWE-502": 200,
+        "CWE-22": 200,
+        "CWE-94": 200,
+        "CWE-20": 200,
+        "CWE-330": 200,
+        "CWE-259": 200,
+        "CWE-79": 200,
+        "CWE-327": 184
+      },
+      "repository_top_cwes": {
+        "bandit": {
+          "CWE-377": 100,
+          "CWE-502": 100,
+          "CWE-155": 100,
+          "CWE-22": 100,
+          "CWE-94": 100
+        },
+        "manim": {
+          "CWE-330": 100,
+          "CWE-20": 100,
+          "CWE-502": 100,
+          "CWE-22": 100,
+          "CWE-78": 100
+        },
+        "flask": {
+          "CWE-259": 100,
+          "CWE-94": 100,
+          "CWE-78": 100,
+          "CWE-703": 100,
+          "CWE-79": 100
+        }
+      }
+    }
+  }
+}

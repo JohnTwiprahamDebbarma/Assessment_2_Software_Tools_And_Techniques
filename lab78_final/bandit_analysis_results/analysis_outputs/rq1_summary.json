@@ -1,0 +1,36 @@
+{
+  "repo_stats": {
+    "bandit": {
+      "total_commits": 100,
+      "commits_introducing_vulnerabilities": 4,
+      "commits_fixing_vulnerabilities": 0,
+      "percent_introducing": 4.0,
+      "percent_fixing": 0.0,
+      "avg_vulnerabilities_introduced_per_commit": 1.75,
+      "avg_vulnerabilities_fixed_per_commit": 0
+    },
+    "manim": {
+      "total_commits": 100,
+      "commits_introducing_vulnerabilities": 0,
+      "commits_fixing_vulnerabilities": 1,
+      "percent_introducing": 0.0,
+      "percent_fixing": 1.0,
+      "avg_vulnerabilities_introduced_per_commit": 0,
+      "avg_vulnerabilities_fixed_per_commit": 4.0
+    },
+    "flask": {
+      "total_commits": 100,
+      "commits_introducing_vulnerabilities": 1,
+      "commits_fixing_vulnerabilities": 1,
+      "percent_introducing": 1.0,
+      "percent_fixing": 1.0,
+      "avg_vulnerabilities_introduced_per_commit": 1.0,
+      "avg_vulnerabilities_fixed_per_commit": 1.0
+    }
+  },
+  "overall": {
+    "avg_percent_introducing": 1.6666666666666667,
+    "avg_percent_fixing": 0.6666666666666666,
+    "ratio_fix_to_introduce": 0.4
+  }
+}
